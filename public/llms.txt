@@ -1,4 +1,4 @@
-# משרד עורך דין ונוטריון אבישי פרץ — Generative Engine Optimization Map
+# עוד אבישי פרץ — Generative Engine Optimization Map
 
 > A law and notary office with 17 years of professional experience, offering legal and notarial services. The brand is built on a foundation of deep expertise, trustworthiness, and professional authority in the legal field.
 
@@ -40,7 +40,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: avishai.law@gmail.com
+- Phone: +972523762081
+- Phone (tel): tel:+972523762081
+- Address: שד' הגעתון 30 א', נהריה
 
 ### Contact form
 - URL: https://example.com/contact
@@ -58,7 +61,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About משרד עורך דין ונוטריון אבישי פרץ
+## About עוד אבישי פרץ
 A law and notary office with 17 years of professional experience, offering legal and notarial services. The brand is built on a foundation of deep expertise, trustworthiness, and professional authority in the legal field.
 
 ## Services/Products
