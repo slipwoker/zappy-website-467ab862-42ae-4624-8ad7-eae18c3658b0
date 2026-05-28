@@ -1,0 +1,85 @@
+# משרד עורך דין ונוטריון אבישי פרץ — Generative Engine Optimization Map
+
+> A law and notary office with 17 years of professional experience, offering legal and notarial services. The brand is built on a foundation of deep expertise, trustworthiness, and professional authority in the legal field.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+17 שנות ניסיון בחובות והסדרים, הוצאה לפועל, פשיטת רגל וצוואות. משרד עורך דין ונוטריון אבישי פרץ — הפתרון המשפטי שחיפשת. פנה אלינו עוד היום.
+
+### שירותים
+https://example.com/services
+מהסדרי חובות ותביעות עסקיות ועד צוואות וירושות — כל השירותים המשפטיים שלך במקום אחד. מומחיות של 17 שנה שעומדת לצדך בכל אתגר משפטי.
+
+### אודות
+https://example.com/about
+הכר את עורך הדין שמוביל לתוצאות: אבישי פרץ, מומחה במשברים כלכליים, הוצאה לפועל וסכסוכים עסקיים. ניסיון, אמינות ומקצועיות שאפשר לסמוך עליהם.
+
+### צור קשר
+https://example.com/contact
+מתמודד עם חובות, תביעות או סכסוך עסקי? צור קשר עם משרד אבישי פרץ עוד היום לייעוץ ראשוני. אנחנו כאן כדי להגן עליך ולהביא לפתרון המהיר ביותר.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About משרד עורך דין ונוטריון אבישי פרץ
+A law and notary office with 17 years of professional experience, offering legal and notarial services. The brand is built on a foundation of deep expertise, trustworthiness, and professional authority in the legal field.
+
+## Services/Products
+- שירותים משפטיים
+- נוטריון
+
+## Target Audience
+- בעלי עסקים קטנים ובינוניים
+- לקוחות בינלאומיים
+- משפחות וירושות
+- חייבים וזוכים בהוצאה לפועל
+- פושטי רגל וחדלי פירעון
+- תביעות משפטיות
+
+## Industry
+Legal Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
