@@ -1,4 +1,4 @@
-# עוד אבישי פרץ — Generative Engine Optimization Map
+# משרד עורך דין ונוטריון אבישי פרץ — Generative Engine Optimization Map
 
 > A law and notary office with 17 years of professional experience, offering legal and notarial services. The brand is built on a foundation of deep expertise, trustworthiness, and professional authority in the legal field.
 
@@ -61,7 +61,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About עוד אבישי פרץ
+## About משרד עורך דין ונוטריון אבישי פרץ
 A law and notary office with 17 years of professional experience, offering legal and notarial services. The brand is built on a foundation of deep expertise, trustworthiness, and professional authority in the legal field.
 
 ## Services/Products
